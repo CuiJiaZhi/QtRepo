@@ -4,6 +4,8 @@
 #include <QDebug>
 #include <QCursor>
 
+// hello GitHub
+
 // 构造函数
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
