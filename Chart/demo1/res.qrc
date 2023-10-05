@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>images/ChartTitle.png</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file>styleSheet.qss</file>
+    </qresource>
+</RCC>
